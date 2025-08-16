@@ -1,4 +1,10 @@
 proxies:
+  - name: "HelloTech"
+    type: socks5
+    server: 43.246.200.49
+    port: 1080
+    username: ismail
+    password: 12345
   - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 1ㅤㅤㅤㅤㅤㅤㅤ️ㅤㅤㅤㅤㅤㅤㅤ️ -FTP[ShowTime, FtpBD]"
     type: socks5
     server: 45.64.132.21
