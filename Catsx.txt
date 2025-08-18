@@ -709,3 +709,9 @@ proxies:
     port: 6699
     username: 3xp
     password: 3xp
+  - name: "🇧🇩 Server-12" #BusinessNetwork
+    type: socks5
+    server: 203.76.220.168
+    port: 1052
+    username: exrex
+    password: exrex
