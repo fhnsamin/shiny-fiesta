@@ -717,13 +717,13 @@ proxies:
     password: exrex
   - name: "bdix tg 1"
     type: socks5
-    server: 1.bdixbypass.com
+    server: 103.85.241.148
     port: 6969
     username: @BDiX_BypassX
     password: @BDiX_BypassX
   - name: "bdix tg 4"
     type: socks5
-    server: 4.bdixbypass.com
+    server: 122.144.12.155
     port: 6969
     username: @BDiX_BypassX
     password: @BDiX_BypassX
