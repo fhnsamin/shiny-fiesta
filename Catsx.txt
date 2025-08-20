@@ -715,21 +715,3 @@ proxies:
     port: 1052
     username: exrex
     password: exrex
-  - name: "bdix tg 1"
-    type: socks5
-    server: 103.85.241.148
-    port: 6969
-    username: @BDiX_BypassX
-    password: @BDiX_BypassX
-  - name: "bdix tg 4"
-    type: socks5
-    server: 122.144.12.155
-    port: 6969
-    username: @BDiX_BypassX
-    password: @BDiX_BypassX
-  - name: "bdix tg 2"
-    type: socks5
-    server: 2.bdixbypass.com
-    port: 6969
-    username: @BDiX_BypassX
-    password: @BDiX_BypassX
