@@ -715,3 +715,9 @@ proxies:
     port: 1052
     username: exrex
     password: exrex
+  - name: "🌬️ 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝 𝙲𝚊𝚝𝚜 126"
+    type: socks5
+    server: 115.127.92.226
+    port: 6699
+    username: ECats
+    password: ECats
